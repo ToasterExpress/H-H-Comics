@@ -4,6 +4,7 @@ H&H Comics
 -My biggest concerns are these: is there a way to build a better timeline page that can update at the top, and is there a way to quickly import blog posts from another site.
 
 -Import blogs
+-zoom feature
 
 -Home
 -Great Scott! Comics
